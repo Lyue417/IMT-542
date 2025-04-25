@@ -22,7 +22,7 @@ This project was developed for the IMT 542 Portable Information Structures cours
 
 1. Clone this repository:
 
-- git clone https://github.com/Lyue417/imdb-director-analysis.git
+- git clone https://github.com/Lyue417/IMT-542-I3.git
 
 - cd imdb-director-analysis
 
